@@ -1,2 +1,1 @@
-<!doctype html>
-<title>Hello world</title>
+<?php info(); ?>
