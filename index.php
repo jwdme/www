@@ -21,4 +21,5 @@ p {
 <?php
 
 passthru('free -h');
+echo "\n\n";
 passthru('df -h');
