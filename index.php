@@ -21,4 +21,4 @@ p {
 <?php
 
 passthru('free -h');
-passthru('top | head');
+passthru('df -h');
